@@ -3,6 +3,7 @@ display: none !important
 }
 
 .event-start-end-date {
-    margin-top: 1rem;
+    margin-top: -5rem !important;
     visibility: hidden !important;
+
 }
